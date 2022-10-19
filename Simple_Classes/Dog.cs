@@ -1,6 +1,6 @@
 namespace Simple_Classes;
 
-public class Dog : PetAnimal
+public class Dog : PetAnimal, IAnimal
 {
     public Dog(string petName, string petColor) : base(petName, petColor)
     {
@@ -16,5 +16,10 @@ public class Dog : PetAnimal
         {
             Console.WriteLine("Я не ем такое...");
         }
+    }
+
+    public string MakeNoise()
+    {
+        return "Woof";
     }
 }
