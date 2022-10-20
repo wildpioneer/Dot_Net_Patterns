@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilities", "ChainOfResponsibilities\ChainOfResponsibilities.csproj", "{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{9F0BC7F7-9967-46E8-A5B8-2AA3906F7043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0BC7F7-9967-46E8-A5B8-2AA3906F7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0BC7F7-9967-46E8-A5B8-2AA3906F7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0BC7F7-9967-46E8-A5B8-2AA3906F7043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0BC7F7-9967-46E8-A5B8-2AA3906F7043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
