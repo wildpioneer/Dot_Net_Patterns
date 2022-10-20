@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Classes", "Simple_Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{8828C08A-CC73-49A1-808A-E67CE864A862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilities", "ChainOfResponsibilities\ChainOfResponsibilities.csproj", "{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8828C08A-CC73-49A1-808A-E67CE864A862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8828C08A-CC73-49A1-808A-E67CE864A862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8828C08A-CC73-49A1-808A-E67CE864A862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E7E3FF-07A6-40B9-A820-07D2CF517C4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
